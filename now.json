@@ -1,6 +1,7 @@
 {
   "version": 2,
   "name": "next-app",
+  "alias": "artforest.me",
   "builds": [
     {
       "src": "package.json",
